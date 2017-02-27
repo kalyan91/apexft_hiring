@@ -31,8 +31,8 @@ development:
   encoding: unicode
   database: Apex_Hiring_development
   pool: 5
-  username: vivek
-  password: vivek
+  username: apexft
+  password: password
   host: localhost
 
 test:
@@ -40,6 +40,6 @@ test:
   encoding: unicode
   database: Apex_Hiring_test
   pool: 5
-  username: vivek
-  password: vivek
+  username: apexft
+  password: password
   host: localhost
